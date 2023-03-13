@@ -18,7 +18,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naillegal&show_icons=true&locale=en" alt="naillegal" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naillegal&" alt="naillegal" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naillegal&" alt="" /></p>
 
 ![naillegal's Github Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=naillegal&custom_title=Nail's%20GitHub%20Activity%20Graph&bg_color=1c1917&color=A9FEF7&line=0891b2&point=ffffff&area_color=0891b2&title_color=0891b2&area=true)
 
